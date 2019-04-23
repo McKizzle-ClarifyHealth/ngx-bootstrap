@@ -3,7 +3,7 @@
 npm i @angular/animations@next \
     @angular/core@next \
     @angular-devkit/core@latest \
-    @angular-devkit/schematics@next \
+    @angular-devkit/schematics@latest \
     @angular/cli@latest \
     @angular/common@next \
     @angular/compiler-cli@next \
@@ -16,7 +16,7 @@ npm i @angular/animations@next \
     @angular/platform-server@next \
     @angular/router@next \
     @angular/service-worker@next \
-    @schematics/angular@next \
+    @schematics/angular@latest \
     typescript@3.4 \
     tsickle@0.34.0 \
     rxjs@6.4.0
